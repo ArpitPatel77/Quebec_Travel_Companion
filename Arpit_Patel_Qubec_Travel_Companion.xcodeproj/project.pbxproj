@@ -13,6 +13,7 @@
 		1B178A5E237CA14000C9A8A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B178A5C237CA14000C9A8A1 /* Main.storyboard */; };
 		1B178A60237CA14100C9A8A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B178A5F237CA14100C9A8A1 /* Assets.xcassets */; };
 		1B178A63237CA14100C9A8A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B178A61237CA14100C9A8A1 /* LaunchScreen.storyboard */; };
+		1B178A6B237CA61600C9A8A1 /* Arpit_patel_QTC_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B178A6A237CA61600C9A8A1 /* Arpit_patel_QTC_Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1B178A5F237CA14100C9A8A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B178A62237CA14100C9A8A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B178A64237CA14100C9A8A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B178A6A237CA61600C9A8A1 /* Arpit_patel_QTC_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arpit_patel_QTC_Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1B178A5F237CA14100C9A8A1 /* Assets.xcassets */,
 				1B178A61237CA14100C9A8A1 /* LaunchScreen.storyboard */,
 				1B178A64237CA14100C9A8A1 /* Info.plist */,
+				1B178A6A237CA61600C9A8A1 /* Arpit_patel_QTC_Model.swift */,
 			);
 			path = Arpit_Patel_Qubec_Travel_Companion;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				1B178A5B237CA14000C9A8A1 /* ViewController.swift in Sources */,
 				1B178A57237CA14000C9A8A1 /* AppDelegate.swift in Sources */,
+				1B178A6B237CA61600C9A8A1 /* Arpit_patel_QTC_Model.swift in Sources */,
 				1B178A59237CA14000C9A8A1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
